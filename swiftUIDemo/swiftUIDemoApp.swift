@@ -11,7 +11,10 @@ import SwiftUI
 struct swiftUIDemoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+//            SampleCardView()
+            SpinToWin()
+//            ColorPickerView()
         }
     }
 }
